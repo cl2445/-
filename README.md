@@ -31,6 +31,6 @@
 查看 [`resources/`](resources) 文件夹，获取更多学习材料。
 
 ## 反馈和联系
-如有任何问题，请通过邮箱联系:zhenghong@ecust.edu.cn
+如有任何问题，请通过邮箱联系:zhjennie001@163.com
 
 祝学习愉快！
