@@ -1,5 +1,6 @@
-# -
-ECUST, Zheng Hong
+# -Ecust ZhengHong
+
+
 编译原理
 仓库简介
 欢迎来到《编译技术》课程的GitHub仓库。这个仓库包含了课程的讲义、作业和额外的学习资源。
