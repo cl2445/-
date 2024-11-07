@@ -1,4 +1,4 @@
-# -Ecust ZhengHong
+# -Ecust 
 
 
 编译原理
