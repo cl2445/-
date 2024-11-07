@@ -12,7 +12,7 @@
 ## 如何使用这个仓库
 - 了解编译技术的背景知识可以阅读[介绍文档](resources/intro.md)。
 - 讲义与作业可以在 [`lectures/`](lectures)文件夹中找到。
-参考书目
+## 参考书目
 编译原理（第3版） 王生原、董渊、张素琴等 清华大学出版社, 2015年6月 (教材)
 
 （龙书）Compilers：Principles, Techniques, and Tools A. V. Aho, M. S. Lam, R. Sethi, and J. D.Ullman. Addison Wesley; 2nd edition (August 31, 2006)
@@ -29,7 +29,7 @@
 
 查看 [`resources/`](resources) 文件夹，获取更多学习材料。
 
-反馈和联系
+## 反馈和联系
 如有任何问题，请通过邮箱联系:zhenghong@ecust.edu.cn
 
 祝学习愉快！
